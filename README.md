@@ -70,6 +70,31 @@ Geniphy.ai v3.0 is an advanced AI-powered platform designed to generate high-qua
 - **Input Image**: ![Uploaded Image Example](https://github.com/ajay197/Geniphy.ai-v3.0-stable-diffusion-Refiners-ColoringBook-Stickers-StickerSheet-Logo-ImageSemantics/blob/4093caeac3e752262325400bb8c7c0e4a7f7c637/Geniphy.ai%20v3.0%20outputs/Screenshot6.png)
 - **Generated Caption**: "they are on the beach with a giant fried chicken and a women"
 
+
+
+### Examples with GUI
+
+1. **Example 1**
+   - ![Example 1](https://github.com/ajay197/Geniphy.ai-v3.0-stable-diffusion-Refiners-ColoringBook-Stickers-StickerSheet-Logo-ImageSemantics/blob/f9870ad4934c5f2c10bdf1045b1ce82552658f41/Geniphy.ai%20v3.0%20outputs/Screenshot1.png)
+     
+2. **Example 2**
+   - ![Example 2](https://github.com/ajay197/Geniphy.ai-v3.0-stable-diffusion-Refiners-ColoringBook-Stickers-StickerSheet-Logo-ImageSemantics/blob/f9870ad4934c5f2c10bdf1045b1ce82552658f41/Geniphy.ai%20v3.0%20outputs/Screenshot2.png)
+
+3. **Example 3**
+   - ![Example 3](https://github.com/ajay197/Geniphy.ai-v3.0-stable-diffusion-Refiners-ColoringBook-Stickers-StickerSheet-Logo-ImageSemantics/blob/f9870ad4934c5f2c10bdf1045b1ce82552658f41/Geniphy.ai%20v3.0%20outputs/Screenshot3.png)
+
+4. **Example 4**
+   - ![Example 4](https://github.com/ajay197/Geniphy.ai-v3.0-stable-diffusion-Refiners-ColoringBook-Stickers-StickerSheet-Logo-ImageSemantics/blob/f9870ad4934c5f2c10bdf1045b1ce82552658f41/Geniphy.ai%20v3.0%20outputs/Screenshot4.png)
+     
+5. **Example 5**
+   - ![Example 5](https://github.com/ajay197/Geniphy.ai-v3.0-stable-diffusion-Refiners-ColoringBook-Stickers-StickerSheet-Logo-ImageSemantics/blob/f9870ad4934c5f2c10bdf1045b1ce82552658f41/Geniphy.ai%20v3.0%20outputs/Screenshot5.png)
+
+6. **Example 6**
+   - ![Example 6](https://github.com/ajay197/Geniphy.ai-v3.0-stable-diffusion-Refiners-ColoringBook-Stickers-StickerSheet-Logo-ImageSemantics/blob/f9870ad4934c5f2c10bdf1045b1ce82552658f41/Geniphy.ai%20v3.0%20outputs/Screenshot6.png)
+  
+7. **Example 7**
+   - ![Example 7](https://github.com/ajay197/Geniphy.ai-v3.0-stable-diffusion-Refiners-ColoringBook-Stickers-StickerSheet-Logo-ImageSemantics/blob/f9870ad4934c5f2c10bdf1045b1ce82552658f41/Geniphy.ai%20v3.0%20outputs/Screenshot7.png)
+      
 ---
 
 ### Video Demonstration
